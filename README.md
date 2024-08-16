@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=poojareddy-08&label=Profile%20views&color=0e75b6&style=flat" alt="poojareddy-08" /> </p>
 
-- 🌱 I’m currently learning **python,html,css**
+- 🌱 I’m currently learning **c,python,html,css**
 
 - 📫 How to reach me **pisatipoojasri@gmail.com**
 
