@@ -1,5 +1,8 @@
 # Hi, I’m Poojasri Pisati 👋
 
+
+<img align="right" width="220" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" alt="Illustration of a woman working at a computer" />
+
 **MSc Data Science student at South East Technological University (SETU) · Carlow, Ireland**
 
 I use Python and SQL to explore data, build machine learning models, and create dashboards. My projects span air quality prediction, retail recommendations, and analytics on a replicated database cluster.
