@@ -1,24 +1,34 @@
-<h1 align="center">Hi 👋, I'm Pooja Sri</h1>
-<h3 align="center">I'm a passionate and enthusiastic Data explorer, eager to learn and contribute to the ever-evolving world of technology.</h3>
-<img align="right" alt="Coding" width="500" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
+# Hi, I’m Poojasri Pisati 👋
 
+**MSc Data Science student at South East Technological University (SETU) · Carlow, Ireland**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=poojareddy-08&label=Profile%20views&color=0e75b6&style=flat" alt="poojareddy-08" /> </p>
+I use Python and SQL to explore data, build machine learning models, and create dashboards. My projects span air quality prediction, retail recommendations, and analytics on a replicated database cluster.
 
-- 🌱 I’m currently learning **c,python,html,css**
+## Featured Projects
 
-- 📫 How to reach me **pisatipoojasri@gmail.com**
+### Air Quality Prediction
+Built a machine learning model to predict the Air Quality Index (AQI). Preprocessed the data, engineered features, and documented the test criteria and how I validated the results.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/ pooja-reddy-pisati-496aa7299" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ pooja-reddy-pisati-496aa7299" height="30" width="40" /></a>
-</p>
+### Retail Product Recommendation Engine | Snowflake
+Developed a recommendation engine in Snowflake that uses customer purchase history to generate personalized product suggestions.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+### Replicated Retail Sales Analytics | ClickHouse, Docker Compose, Python & Grafana
+Set up a three-node ClickHouse cluster, verified data replication, and tested what happened when a node went offline and recovered. Wrote SQL queries for sales analysis, built a Grafana dashboard, and automated cluster health checks with Python.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=poojareddy-08&show_icons=true&locale=en&layout=compact" alt="poojareddy-08" /></p>
+## Technical Skills
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=poojareddy-08&show_icons=true&locale=en" alt="poojareddy-08" /></p>
+| Area | Tools |
+| --- | --- |
+| Programming & querying | Python, SQL, R |
+| Databases & infrastructure | MySQL, Snowflake, ClickHouse, Docker Compose |
+| Analytics & visualization | Power BI, Tableau, Excel, Grafana |
+| Version control | Git, GitHub |
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=poojareddy-08&" alt="poojareddy-08" /></p>
+## Additional Experience
+
+**Salesforce Developer Virtual Internship**  
+Built custom Lightning layouts and automated a lead-management workflow using Salesforce Process Builder.
+
+## Connect with Me
+
+[LinkedIn](https://www.linkedin.com/in/poojareddypisati/) · [Email](mailto:pisatipoojasri@gmail.com)
